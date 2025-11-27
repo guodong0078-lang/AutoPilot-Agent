@@ -10,9 +10,8 @@ AutoPilot-Agent — 一个面向新手友好的本地自动化 Agent 框架模�
 - 本地运行示例 `run_example.py`
 
 ## 快速开始（Windows / macOS / Linux）
-bash
 # 1 克隆仓库（如果你无法 git clone，可直接在 GitHub 页面上传文件）
-git clone https://github.com/你的用户名/AutoPilot-Agent.git
+git clone https://github.com/guodong0078-lang/AutoPilot-Agent.git
 cd AutoPilot-Agent
 
 # 2 创建并激活虚拟环境（推荐）
@@ -42,7 +41,6 @@ yaml
 ---
 
 ### `CONTRIBUTING.md`
-```markdown
 # Contributing
 
 感谢你的关注与贡献！你可以：
